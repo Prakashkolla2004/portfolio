@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #252525; 
+}
+.container{
+    width: 80%;
+    height: 80%;    
+    padding: 20%;
+    margin: 10% 10%;
+    border-radius: 50px;
+    border: 5px solid #fff;
+    background-color: #000;
+    display: flex;
+}
+.container .skills{
+    width: 80%;
+    height: 80%;    
+    padding: 20%;
+    margin: 10% 10%;
+    border-radius: 50px;
+    border: 5px solid #fff;
+    background-color: #000;
+    display: flex;
+    position: relative;
+}
+.container .about{
+    width: 80%;
+    height: 80%;    
+    padding: 20%;
+    margin: 10% 10%;
+    border-radius: 50px;
+    border: 5px solid #fff;
+    background-color: #000;
+    display: flex;
+}
+.container .links{
+    width: 80%;
+    height: 80%;    
+    padding: 20%;
+    margin: 10% 10%;
+    border-radius: 50px;
+    border: 5px solid #fff;
+    background-color: #000;
+    display: flex;
+}
+.container .hire{
+    width: 80%;
+    height: 80%;    
+    padding: 20%;
+    margin: 10% 10%;
+    border-radius: 50px;
+    border: 5px solid #fff;
+    background-color: #000;
+    display: flex;
+}
